@@ -152,6 +152,32 @@ files:
     if __name__ == '__main__':
         ToDoList('todolist.todolist').run_tests()
   learner_created: false
+- name: todolist/todolist.py
+  visible: true
+  text: |
+    # Write your code here
+
+    print('''Today:
+    1) Do yoga
+    2) Make breakfast
+    3) Learn basics of SQL
+    4) Learn what is ORM''')
+  learner_created: true
+- name: todolist/todo.db
+  visible: true
+  learner_created: true
+- name: todo.db
+  visible: true
+  learner_created: true
+- name: list.db
+  visible: true
+  learner_created: true
+- name: temp.db
+  visible: true
+  learner_created: true
+- name: todolist/list.db
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/105/stages/571/implement
-status: Unchecked
+status: Solved
 record: -1

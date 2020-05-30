@@ -103,6 +103,8 @@ topics:
     theory_id: 6981
   - title: Magic methods
     theory_id: 7139
+  - title: Inheritance
+    theory_id: 7235
   - title: PyCharm basics
     theory_id: 6193
   2:
